@@ -1,0 +1,68 @@
+C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Testbench.v {1 {vlog -work work -stats=none {C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module TB_Modulator_Assemblage
+-- Compiling module TB_QPSK
+-- Compiling module TB_ASK
+-- Compiling module TB_FSK
+-- Compiling module TB_BPSK
+-- Compiling module TB_multiplier
+-- Compiling module TB_wave
+-- Compiling module TB_CWG
+-- Compiling module TB_SWG
+-- Compiling module TB_counter
+-- Compiling module TB_TFF
+-- Compiling module TB_Adder
+-- Compiling module TB_mux
+-- Compiling module TB_demux
+
+Top level modules:
+	TB_Modulator_Assemblage
+	TB_QPSK
+	TB_ASK
+	TB_FSK
+	TB_BPSK
+	TB_multiplier
+	TB_wave
+	TB_CWG
+	TB_SWG
+	TB_counter
+	TB_TFF
+	TB_Adder
+	TB_mux
+	TB_demux
+
+} {} {}} C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Design.v {2 {vlog -work work -stats=none {C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Design.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Modulator_Assemblage
+-- Compiling module QPSK
+-- Compiling module ASK
+** Warning: C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Design.v(74): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+-- Compiling module FSK
+-- Compiling module BPSK
+-- Compiling module demux
+-- Compiling module mux
+-- Compiling module mux_4w
+-- Compiling module mux_16
+-- Compiling module mux_16_4w
+-- Compiling module mux_16_8w
+-- Compiling module mux_16_64w
+-- Compiling module T_FF
+-- Compiling module counter
+-- Compiling module sine_wave_generator
+-- Compiling module sine_wave_Pi_shift
+-- Compiling module adder_6b
+-- Compiling module half_adder
+-- Compiling module full_adder
+-- Compiling module mult_16
+-- Compiling module adder_4b
+-- Compiling module full_adder_4b
+-- Compiling module adder_16b
+-- Compiling module adder_32b
+-- Compiling module andgat
+
+Top level modules:
+	Modulator_Assemblage
+	demux
+	adder_16b
+
+} {} {}}

@@ -1,0 +1,1277 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/jaide/Desktop/FFF/Verilog/Modulator
+vadder_16b
+Z1 !s110 1574917950
+!i10b 1
+!s100 ObHT]l]G9D6iBMnj_<I;61
+IPDXije=:XkY5mbRIGV00d1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1574917945
+Z4 8C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Design.v
+Z5 FC:\Users\jaide\Desktop\FFF\Verilog\Modulator\Design.v
+L0 477
+Z6 OV;L;10.6d;65
+r1
+!s85 0
+31
+Z7 !s108 1574917949.000000
+Z8 !s107 C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Design.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Design.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vadder_32b
+R1
+!i10b 1
+!s100 2_iG5oWn`K<TSZT^DRK=a3
+IoW]A:m9KON9kEz;h:1?:b3
+R2
+R0
+R3
+R4
+R5
+L0 488
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vadder_4b
+R1
+!i10b 1
+!s100 9U1SnTj^om=V8:0boiaZ61
+IYA3CXHYInYkzS]8_J]el[2
+R2
+R0
+R3
+R4
+R5
+L0 454
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vadder_6b
+R1
+!i10b 1
+!s100 AX6j5Zeo9FYK7>20=SbXc3
+I13V5B<DRlKlX0<I4>=W5W0
+R2
+R0
+R3
+R4
+R5
+Z12 L0 317
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vandgat
+R1
+!i10b 1
+!s100 hWQ6:]1P?JWF7Yk^JY]EI0
+I>?Jj0Id<62>AL=0Ukg]kB0
+R2
+R0
+R3
+R4
+R5
+L0 504
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vASK
+R1
+!i10b 1
+!s100 Z^9k;hF?Y[klmhcHSYX0_3
+I`TAhme5lA@CI_c<_hCO1J3
+R2
+R0
+R3
+R4
+R5
+Z13 L0 64
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@s@k
+vBPSK
+R1
+!i10b 1
+!s100 IVfcz74RlSN1^OHlBBHML3
+I[2AFN[flnHTe5l0;=68[50
+R2
+R0
+R3
+R4
+R5
+L0 92
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@b@p@s@k
+vcosine_wave_generator
+Z14 !s110 1574792147
+!i10b 1
+!s100 1f>CZ<JNAz8G[_OlYn1XU0
+INz1zzkO8X9M9a>6HNEaZF2
+R2
+R0
+Z15 w1574792074
+R4
+R5
+R12
+R6
+r1
+!s85 0
+31
+Z16 !s108 1574792147.000000
+R8
+R9
+!i113 1
+R10
+R11
+vcosine_wave_Pi_shift
+R14
+!i10b 1
+!s100 2cGL=?53GJ;M=nFWnUoMU1
+IJ?ZhkdIGl;W80NLE=T^TW1
+R2
+R0
+R15
+R4
+R5
+L0 326
+R6
+r1
+!s85 0
+31
+R16
+R8
+R9
+!i113 1
+R10
+R11
+ncosine_wave_@pi_shift
+vcounter
+R1
+!i10b 1
+!s100 lC>NH>M]j6[=TKH]0YGfG2
+IAg6l?iNdDVSf`2Na2mj]_1
+R2
+R0
+R3
+R4
+R5
+L0 215
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vdemux
+R1
+!i10b 1
+!s100 L2la3;=i8lz:EUHUj[Ddo1
+IXlUB;IMhgo?B:5U5HI0M33
+R2
+R0
+R3
+R4
+R5
+L0 106
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vFSK
+R1
+!i10b 1
+!s100 Dbmm@VL;U>?P5C^JCP2Ba3
+IC^L3Pg3289Edaj]GQO`0F1
+R2
+R0
+R3
+R4
+R5
+L0 77
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@f@s@k
+vfull_adder
+R1
+!i10b 1
+!s100 IDgCH[QK]a61jc;bV]S9E3
+Ic;T@[[zXlF[V4hNF<DOaQ3
+R2
+R0
+R3
+R4
+R5
+L0 337
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vfull_adder_4b
+R1
+!i10b 1
+!s100 ^fF>MemaQSWl3gTchf3GF0
+Iz9f3aC7[cE9C[zo4kCU_D1
+R2
+R0
+R3
+R4
+R5
+L0 465
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vgated_D_latch
+!s110 1574607861
+!i10b 1
+!s100 jlJcFPbjUh9jQC5NcWCPg1
+IVZB85cnXa6bD1N[@fFSZU3
+R2
+R0
+w1574607855
+8C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Design.v
+FC:/Users/jaide/Desktop/FFF/Verilog/Modulator/Design.v
+L0 107
+R6
+r1
+!s85 0
+31
+!s108 1574607861.000000
+!s107 C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Design.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Design.v|
+!i113 1
+R10
+R11
+ngated_@d_latch
+vhalf_adder
+R1
+!i10b 1
+!s100 UIh<F5[ZkhA5LH=[2PoHz0
+IW@5TkSd?Oim?0_;WE2P`R0
+R2
+R0
+R3
+R4
+R5
+L0 330
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vincrementer_16b
+Z17 !s110 1572013177
+!i10b 1
+!s100 K742X1RWn6D90O;a<2I3_0
+IbM<fzYQT8031QXINTKG0D3
+R2
+R0
+Z18 w1571988018
+Z19 8C:/Users/jaide/Desktop/FFF/Verilog/JAIDEEP_A4_P01.v
+Z20 FC:/Users/jaide/Desktop/FFF/Verilog/JAIDEEP_A4_P01.v
+L0 101
+R6
+r1
+!s85 0
+31
+Z21 !s108 1572013177.000000
+Z22 !s107 C:/Users/jaide/Desktop/FFF/Verilog/JAIDEEP_A4_P01.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jaide/Desktop/FFF/Verilog/JAIDEEP_A4_P01.v|
+!i113 1
+R10
+R11
+vincrementer_6b
+!s110 1574511224
+!i10b 1
+!s100 a9AXS?=3BT;ga_V=XmBS]3
+ISJ59PE0jLbh<`^EhmE4PH0
+R2
+R0
+w1574511217
+R4
+R5
+L0 289
+R6
+r1
+!s85 0
+31
+!s108 1574511224.000000
+R8
+R9
+!i113 1
+R10
+R11
+vJKFF
+Z24 !s110 1574441191
+!i10b 1
+!s100 Ng[Q[<:EZ42a90f9XFiU:3
+I]4R2M>Y[Sf?f3]ZhOU?6J3
+R2
+R0
+w1574441183
+R4
+R5
+L0 65
+R6
+r1
+!s85 0
+31
+Z25 !s108 1574441191.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@j@k@f@f
+vleft_shift
+R17
+!i10b 1
+!s100 LN2X8ideB>^9MmJKONJ^=3
+IG:14Tmfh?DJ>;P?10obFh0
+R2
+R0
+R18
+R19
+R20
+L0 132
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R10
+R11
+vModulator
+Z26 !s110 1574691000
+!i10b 1
+!s100 M_1TkhOaZU5Z7V<TM_S:R1
+I913?DWgWRZ_HLh[[noDLj0
+R2
+R0
+w1574677133
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+Z27 !s108 1574691000.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@modulator
+vModulator_Assemblage
+R1
+!i10b 1
+!s100 ZLc1omd[FAgE8O=z=8WfG1
+I8SUa^15`LGQB88990L6cf3
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@modulator_@assemblage
+vmult_16
+R1
+!i10b 1
+!s100 bP:HE?Qo4G_cYA?i_6oT11
+ISkN=?fTD12ZN377A1ii=k0
+R2
+R0
+R3
+R4
+R5
+L0 350
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux
+R1
+!i10b 1
+!s100 f``85>k::=hAVVTnaOe4l0
+IXei@UIf@1Q2B5]_E_9<RO1
+R2
+R0
+R3
+R4
+R5
+L0 121
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux_16
+R1
+!i10b 1
+!s100 dSVf3]hJMHINM6l:Tfe1:2
+IB;><@EZbH3nH?G2@PKfWO0
+R2
+R0
+R3
+R4
+R5
+L0 142
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux_16_4w
+R1
+!i10b 1
+!s100 S=YMA@SRC[O]f@k2T`IZ`2
+I0JR]959aaeID?_G5EcNim3
+R2
+R0
+R3
+R4
+R5
+L0 149
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux_16_64w
+R1
+!i10b 1
+!s100 Ykg4Q6OITeKYzA>foZ1Q?1
+I2?8GBjOZLb13XDdXbJ`Do0
+R2
+R0
+R3
+R4
+R5
+Z28 L0 181
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux_16_8w
+R1
+!i10b 1
+!s100 VVYBAzb9XIL@eA8OY2XHU0
+I0lA60BR7C?^SXZne:0EY52
+R2
+R0
+R3
+R4
+R5
+L0 160
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmux_32
+R17
+!i10b 1
+!s100 7fWPmW?nPb5abVVej3C]g3
+IZTf`^O:hoWYU?zD6Gjz4H0
+R2
+R0
+R18
+R19
+R20
+L0 125
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R10
+R11
+vmux_32_64w
+Z29 !s110 1571742086
+!i10b 1
+!s100 8Pn<Gj76bFlLc]=MEF[B]3
+IeQ5DB98[nbQYTo>>=K8[f1
+R2
+R0
+Z30 w1571742048
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+Z31 !s108 1571742086.000000
+R8
+R9
+!i113 1
+R10
+R11
+vmux_32_8w
+R29
+!i10b 1
+!s100 oAQ0MPZU>lVAefRI`o<D61
+IaCzF`cJ4@KO?`lbLg[VLZ3
+R2
+R0
+R30
+R4
+R5
+L0 18
+R6
+r1
+!s85 0
+31
+R31
+R8
+R9
+!i113 1
+R10
+R11
+vmux_4w
+R1
+!i10b 1
+!s100 _R>]?TT?^PP=DLi70LY?f1
+I?g1iPm^DlMI3LaNGBzMN]1
+R2
+R0
+R3
+R4
+R5
+L0 131
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vnand3
+!s110 1574489923
+!i10b 1
+!s100 b:UojUi9OKeaOFWJm?J?R2
+IOiG0XP[G=0lTDA?bH1Gz90
+R2
+R0
+w1574489619
+R4
+R5
+R13
+R6
+r1
+!s85 0
+31
+!s108 1574489923.000000
+R8
+R9
+!i113 1
+R10
+R11
+vnotgat
+R17
+!i10b 1
+!s100 m0KEW]fhbNCl2QMGCgF0:2
+I1al]jSYJ3AO;aCQzk9<m@0
+R2
+R0
+R18
+R19
+R20
+L0 1
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R10
+R11
+vorgat
+R17
+!i10b 1
+!s100 YGe^CEEm6_H40CFi3[MAJ1
+IeAnaDiYbK8J@2:a:5JCiY0
+R2
+R0
+R18
+R19
+R20
+L0 15
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R10
+R11
+vQPSK
+R1
+!i10b 1
+!s100 `IoC]iXjccj0FRiD0eJHd2
+ISUE65>G>]Qm:62ch1chWT2
+R2
+R0
+R3
+R4
+R5
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@q@p@s@k
+vsine_wave_generator
+R1
+!i10b 1
+!s100 Z4nQ`oaElReVe6lIEk__40
+I4Hzm_Hf`91GJa?A^T`zTT1
+R2
+R0
+R3
+R4
+R5
+L0 234
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vsine_wave_Pi_shift
+R1
+!i10b 1
+!s100 0W@LOe@H@?kMzfgXLjj7=2
+ITKd=InOLNKUXW6IZE^9?H1
+R2
+R0
+R3
+R4
+R5
+L0 308
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nsine_wave_@pi_shift
+vT_FF
+R1
+!i10b 1
+!s100 2Vfm0Z?o3;8bFEL7dFb2C3
+I1Yo`hzZRNPH>f6Tceo:Sf3
+R2
+R0
+R3
+R4
+R5
+L0 200
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@t_@f@f
+vTB_Adder
+R1
+!i10b 1
+!s100 >6chQ:dONYgYUd=40?I>V1
+IL07RL7]WnKRB96KB:EMg90
+R2
+R0
+Z32 w1574917895
+Z33 8C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Testbench.v
+Z34 FC:\Users\jaide\Desktop\FFF\Verilog\Modulator\Testbench.v
+L0 294
+R6
+r1
+!s85 0
+31
+Z35 !s108 1574917950.000000
+Z36 !s107 C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Testbench.v|
+Z37 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\jaide\Desktop\FFF\Verilog\Modulator\Testbench.v|
+!i113 1
+R10
+R11
+n@t@b_@adder
+vTB_ASK
+R1
+!i10b 1
+!s100 z_=TaFz8`L8[JXnZPg5d^0
+Ii18>iCn4NWEDI1bU77FOJ0
+R2
+R0
+R32
+R33
+R34
+L0 143
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@a@s@k
+vTB_BPSK
+R1
+!i10b 1
+!s100 ?6b48]T2LB]7FCHQ<BjF_2
+IXz1KF0C45cN>:Vl8cZAUk3
+R2
+R0
+R32
+R33
+R34
+R28
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@b@p@s@k
+vTB_counter
+R1
+!i10b 1
+!s100 @8lY8o9ZE`17e1c1?7E:]1
+IJ<e?A59:C5U0CBRAg6o@N3
+R2
+R0
+R32
+R33
+R34
+L0 264
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_counter
+vTB_CWG
+R1
+!i10b 1
+!s100 Yk^7[NFH3QCN=41SgPhbh2
+IDfNEZ;@:^Z<bKa`3P9J950
+R2
+R0
+R32
+R33
+R34
+L0 231
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@c@w@g
+vTB_demux
+R1
+!i10b 1
+!s100 <e]>@F>]_jD[QmmAZaKhi1
+ImH[:^_NlPUAEC_>EJ6GZF0
+R2
+R0
+R32
+R33
+R34
+L0 338
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_demux
+vTB_FSK
+R1
+!i10b 1
+!s100 17MlHG[P^UkMNbh:6gXl02
+I2c5fU65E]?zUekf8?9n]60
+R2
+R0
+R32
+R33
+R34
+L0 162
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@f@s@k
+vTB_JKFF
+R24
+!i10b 1
+!s100 fdGNeT@8TXnc1BlHhChG32
+II5SFGCM?Ij<=YR8>12?Jk1
+R2
+R0
+w1574441040
+R33
+R34
+L0 1
+R6
+r1
+!s85 0
+31
+R25
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@j@k@f@f
+vTB_Modulator
+R26
+!i10b 1
+!s100 _SO7BFm:Uz6ICo2WTTkL=3
+I`z<<4ng6gMGj`kN>9>Gc23
+R2
+R0
+w1574690992
+R33
+R34
+L0 1
+R6
+r1
+!s85 0
+31
+R27
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@modulator
+vTB_Modulator_Assemblage
+R1
+!i10b 1
+!s100 `_@:nig0L2LW7GbD``gX11
+Ie_g[JZF^7hN=nX>?kL3Kn1
+R2
+R0
+R32
+R33
+R34
+L0 1
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@modulator_@assemblage
+vTB_mult
+R17
+!i10b 1
+!s100 :fF7z?IMGX^U34mGT<;XE3
+I?P7?g;EN0N7_PENImUObW1
+R2
+R0
+w1572013165
+8C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Testbench.v
+FC:/Users/jaide/Desktop/FFF/Verilog/Modulator/Testbench.v
+L0 1
+R6
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jaide/Desktop/FFF/Verilog/Modulator/Testbench.v|
+!i113 1
+R10
+R11
+n@t@b_mult
+vTB_multiplier
+R1
+!i10b 1
+!s100 iISC<M`hmLKePE:dmEAHC1
+ILogzY5dzC<9X:2S^j5lKj1
+R2
+R0
+R32
+R33
+R34
+L0 201
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_multiplier
+vTB_mux
+R1
+!i10b 1
+!s100 J1QY8jT325^laeBFHT2dc3
+IR<7k0CVK_l`ZHYMnEU;z;0
+R2
+R0
+R32
+R33
+R34
+L0 316
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_mux
+vTB_QPSK
+R1
+!i10b 1
+!s100 z4YS@fbe88:[0>`mkRTN<3
+I?MPoa76m@7RCEJ;H9gjlP3
+R2
+R0
+R32
+R33
+R34
+L0 113
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@q@p@s@k
+vTB_SWG
+R1
+!i10b 1
+!s100 >6V5UkJ<23S09@Vne@RzU0
+I8@?iYK=mAE^J?g;>YZ^f;0
+R2
+R0
+R32
+R33
+R34
+L0 247
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@s@w@g
+vTB_TFF
+R1
+!i10b 1
+!s100 mCLU[N>f3<mjlAn1Fh3NQ0
+InbDURoAX;i5NHYVU3O1E;3
+R2
+R0
+R32
+R33
+R34
+L0 280
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_@t@f@f
+vTB_wave
+R1
+!i10b 1
+!s100 _c_BYbAazR6@:9GS1VH<m3
+I0AT<;DTdRP6=@DALXdcch0
+R2
+R0
+R32
+R33
+R34
+L0 216
+R6
+r1
+!s85 0
+31
+R35
+R36
+R37
+!i113 1
+R10
+R11
+n@t@b_wave
+vwave
+!s110 1574489797
+!i10b 1
+!s100 3IN_g]I<zDCMZ3fZ^9B==0
+IJch4T[FcWZOln4oK3h08[2
+R2
+R0
+w1574489792
+R33
+R34
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1574489797.000000
+R36
+R37
+!i113 1
+R10
+R11
+vwave_generator
+!s110 1574670856
+!i10b 1
+!s100 gOo<;D7hCPO6GMzOl??6I0
+I8CETe9O11Ra@e4jGWIARz3
+R2
+R0
+w1574660195
+R4
+R5
+L0 533
+R6
+r1
+!s85 0
+31
+!s108 1574670856.000000
+R8
+R9
+!i113 1
+R10
+R11
+vxorgat
+R17
+!i10b 1
+!s100 LlP188A=1DcP9@e=H8BkI0
+IlVToUUfc2>^;Thlj6CIhk3
+R2
+R0
+R18
+R19
+R20
+L0 24
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R10
+R11
